@@ -1,0 +1,18 @@
+D:\ЭВМ\CourseWorkEVM\BMPConverter\bin\Debug\BMPConverter.exe.config
+D:\ЭВМ\CourseWorkEVM\BMPConverter\bin\Debug\BMPConverter.exe
+D:\ЭВМ\CourseWorkEVM\BMPConverter\bin\Debug\BMPConverter.pdb
+D:\ЭВМ\CourseWorkEVM\BMPConverter\obj\Debug\BMPConverter.csprojResolveAssemblyReference.cache
+D:\ЭВМ\CourseWorkEVM\BMPConverter\obj\Debug\BMPConverter.Form1.resources
+D:\ЭВМ\CourseWorkEVM\BMPConverter\obj\Debug\BMPConverter.Properties.Resources.resources
+D:\ЭВМ\CourseWorkEVM\BMPConverter\obj\Debug\BMPConverter.csproj.GenerateResource.Cache
+D:\ЭВМ\CourseWorkEVM\BMPConverter\obj\Debug\BMPConverter.exe
+D:\ЭВМ\CourseWorkEVM\BMPConverter\obj\Debug\BMPConverter.pdb
+D:\2 курс\4 семестр\ЭВМ\CourseWorkEVM\BMPConverter\bin\Debug\BMPConverter.exe.config
+D:\2 курс\4 семестр\ЭВМ\CourseWorkEVM\BMPConverter\bin\Debug\BMPConverter.exe
+D:\2 курс\4 семестр\ЭВМ\CourseWorkEVM\BMPConverter\bin\Debug\BMPConverter.pdb
+D:\2 курс\4 семестр\ЭВМ\CourseWorkEVM\BMPConverter\obj\Debug\BMPConverter.csprojResolveAssemblyReference.cache
+D:\2 курс\4 семестр\ЭВМ\CourseWorkEVM\BMPConverter\obj\Debug\BMPConverter.Form1.resources
+D:\2 курс\4 семестр\ЭВМ\CourseWorkEVM\BMPConverter\obj\Debug\BMPConverter.Properties.Resources.resources
+D:\2 курс\4 семестр\ЭВМ\CourseWorkEVM\BMPConverter\obj\Debug\BMPConverter.csproj.GenerateResource.Cache
+D:\2 курс\4 семестр\ЭВМ\CourseWorkEVM\BMPConverter\obj\Debug\BMPConverter.exe
+D:\2 курс\4 семестр\ЭВМ\CourseWorkEVM\BMPConverter\obj\Debug\BMPConverter.pdb
